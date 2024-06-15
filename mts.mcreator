@@ -1,0 +1,560 @@
+{
+  "mod_elements": [
+    {
+      "name": "Deepslatepickaxe",
+      "type": "tool",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslatepickaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mts/models/item/deepslatepickaxe.json",
+          "src/main/java/net/mcreator/mts/item/DeepslatepickaxeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Deepslatepickaxefrom",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslatepickaxefrom",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mts/recipes/deepslatepickaxefrom.json"
+        ]
+      }
+    },
+    {
+      "name": "Deepslatesword",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslatesword",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/mts/item/DeepslateswordItem.java",
+          "src/main/resources/assets/mts/models/item/deepslatesword.json"
+        ]
+      }
+    },
+    {
+      "name": "Deepslateswordfrom",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslateswordfrom",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mts/recipes/deepslateswordfrom.json"
+        ]
+      }
+    },
+    {
+      "name": "Deepslateaxe",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslateaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/mts/item/DeepslateaxeItem.java",
+          "src/main/resources/assets/mts/models/item/deepslateaxe.json"
+        ]
+      }
+    },
+    {
+      "name": "Deepslateaxefrom",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deepslateaxefrom",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mts/recipes/deepslateaxefrom.json"
+        ]
+      }
+    },
+    {
+      "name": "Obsidianingot",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidianingot",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/mts/item/ObsidianingotItem.java",
+          "src/main/resources/assets/mts/models/item/obsidianingot.json"
+        ]
+      }
+    },
+    {
+      "name": "Obsidianingotfrom",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidianingotfrom",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mts/recipes/obsidianingotfrom.json"
+        ]
+      }
+    },
+    {
+      "name": "Obsidiansword",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidiansword",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mts/models/item/obsidiansword.json",
+          "src/main/java/net/mcreator/mts/item/ObsidianswordItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Obsidianswordfrom",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidianswordfrom",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mts/recipes/obsidianswordfrom.json"
+        ]
+      }
+    },
+    {
+      "name": "Obsidianpickaxe",
+      "type": "tool",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidianpickaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/mts/item/ObsidianpickaxeItem.java",
+          "src/main/resources/assets/mts/models/item/obsidianpickaxe.json"
+        ]
+      }
+    },
+    {
+      "name": "Obsidianpickaxefrom",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidianpickaxefrom",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mts/recipes/obsidianpickaxefrom.json"
+        ]
+      }
+    },
+    {
+      "name": "Obsidianaxe",
+      "type": "tool",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidianaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/mts/item/ObsidianaxeItem.java",
+          "src/main/resources/assets/mts/models/item/obsidianaxe.json"
+        ]
+      }
+    },
+    {
+      "name": "Obsidianaxefrom",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "obsidianaxefrom",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mts/recipes/obsidianaxefrom.json"
+        ]
+      }
+    },
+    {
+      "name": "InvincibleIngotTick",
+      "type": "procedure",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "invincible_ingot_tick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/mts/procedures/InvincibleIngotTickProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Invincibleingot",
+      "type": "item",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "invincibleingot",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/mts/item/InvincibleingotItem.java",
+          "src/main/resources/assets/mts/models/item/invincibleingot.json"
+        ]
+      }
+    },
+    {
+      "name": "Invincibleingotfrom",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "invincibleingotfrom",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mts/recipes/invincibleingotfrom.json"
+        ]
+      }
+    },
+    {
+      "name": "Invinciblesword",
+      "type": "tool",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "invinciblesword",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mts/models/item/invinciblesword.json",
+          "src/main/java/net/mcreator/mts/item/InvincibleswordItem.java"
+        ]
+      }
+    },
+    {
+      "name": "InvincibleSwordTick",
+      "type": "procedure",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "invincible_sword_tick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/mts/procedures/InvincibleSwordTickProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Invinciblepickaxe",
+      "type": "tool",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "invinciblepickaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mts/models/item/invinciblepickaxe.json",
+          "src/main/java/net/mcreator/mts/item/InvinciblepickaxeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Invinciblepickaxefrom",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "invinciblepickaxefrom",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mts/recipes/invinciblepickaxefrom.json"
+        ]
+      }
+    },
+    {
+      "name": "Invincibleswordfrom",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "invincibleswordfrom",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mts/recipes/invincibleswordfrom.json"
+        ]
+      }
+    },
+    {
+      "name": "Invincible1sword",
+      "type": "tool",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "invincible_1sword",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/mts/item/Invincible1swordItem.java",
+          "src/main/resources/assets/mts/models/item/invincible_1sword.json"
+        ]
+      }
+    },
+    {
+      "name": "Invincible1swordfrom",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "invincible_1swordfrom",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mts/recipes/invincible_1swordfrom.json"
+        ]
+      }
+    },
+    {
+      "name": "InvincibleSwordLightings",
+      "type": "procedure",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "invincible_sword_lightings",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/mts/procedures/InvincibleSwordLightingsProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Strongglassblock",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "strongglassblock",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/mts/block/StrongglassblockBlock.java",
+          "src/main/resources/assets/mts/models/item/strongglassblock.json",
+          "src/main/resources/assets/mts/blockstates/strongglassblock.json",
+          "src/main/resources/assets/mts/models/block/strongglassblock.json"
+        ]
+      }
+    },
+    {
+      "name": "Strongglassfrom",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "strongglassfrom",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mts/recipes/strongglassfrom.json"
+        ]
+      }
+    },
+    {
+      "name": "Glassingot",
+      "type": "item",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "glassingot",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/mts/item/GlassingotItem.java",
+          "src/main/resources/assets/mts/models/item/glassingot.json"
+        ]
+      }
+    },
+    {
+      "name": "Glassingotfrom",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "glassingotfrom",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mts/recipes/glassingotfrom.json"
+        ]
+      }
+    },
+    {
+      "name": "Glasssword",
+      "type": "tool",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "glasssword",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mts/models/item/glasssword.json",
+          "src/main/java/net/mcreator/mts/item/GlassswordItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Glassswordfrom",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "glassswordfrom",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mts/recipes/glassswordfrom.json"
+        ]
+      }
+    },
+    {
+      "name": "Glasspickaxe",
+      "type": "tool",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "glasspickaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/mts/item/GlasspickaxeItem.java",
+          "src/main/resources/assets/mts/models/item/glasspickaxe.json"
+        ]
+      }
+    },
+    {
+      "name": "Glasspickaxefrom",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "glasspickaxefrom",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mts/recipes/glasspickaxefrom.json"
+        ]
+      }
+    },
+    {
+      "name": "Glassaxe",
+      "type": "tool",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "glassaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/mts/item/GlassaxeItem.java",
+          "src/main/resources/assets/mts/models/item/glassaxe.json"
+        ]
+      }
+    },
+    {
+      "name": "Glassaxefrom",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "glassaxefrom",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mts/recipes/glassaxefrom.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.mts.invinciblesword": "InvincibleXsword",
+      "item.mts.invincible_1sword": "Invincible I Sword",
+      "item.mts.obsidianingot": "Obsidian Ingot",
+      "item.mts.obsidianpickaxe": "Obsidianpickaxe",
+      "item.mts.glassaxe": "Glass Axe",
+      "item.mts.invinciblepickaxe": "Invincible Pickaxe",
+      "item.mts.glasssword": "Glass Sword",
+      "item.mts.deepslatepickaxe": "Deepslate Pickaxe",
+      "item.mts.obsidianaxe": "Obsidian Axe",
+      "block.mts.strongglassblock": "Strongglassblock",
+      "item.mts.deepslatesword": "Deepslate Sword",
+      "item.mts.deepslateaxe": "Deepslate Axe",
+      "item.mts.glasspickaxe": "Glass Pickaxe",
+      "item.mts.glassingot": "Glass Ingot",
+      "item.mts.obsidiansword": "Obsidian Sword",
+      "item.mts.invincibleingot": "Invincibleingot"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "mts",
+    "modName": "More tools",
+    "version": "1.0.0",
+    "author": "jiks1, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.mts",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300110610
+}

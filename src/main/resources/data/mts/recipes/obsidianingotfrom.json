@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 2,
+  "cookingtime": 250,
+  "ingredient": {
+    "item": "minecraft:obsidian"
+  },
+  "result": "mts:obsidianingot"
+}

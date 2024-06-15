@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "mts:invincibleingot"
+    },
+    "1": {
+      "item": "mts:invincibleingot"
+    },
+    "2": {
+      "item": "mts:invincible_1sword"
+    }
+  },
+  "result": {
+    "item": "mts:invinciblesword",
+    "count": 1
+  }
+}

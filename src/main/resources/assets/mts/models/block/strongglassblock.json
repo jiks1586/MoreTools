@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "mts:blocks/strong_glass",
+    "particle": "mts:blocks/strong_glass"
+  }
+}

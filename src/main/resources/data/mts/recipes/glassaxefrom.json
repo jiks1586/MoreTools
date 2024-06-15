@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "mts:glassingot"
+    },
+    "1": {
+      "item": "mts:glassingot"
+    },
+    "2": {
+      "item": "mts:glassingot"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "mts:glassaxe",
+    "count": 1
+  }
+}
